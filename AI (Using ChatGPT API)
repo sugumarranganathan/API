@@ -1,0 +1,80 @@
+With AI (Using ChatGPT API)
+
+Instead of collecting data and training your own large model, you use a pre-trained AI model through an API.
+
+The red crosses on Data Collection and Train indicate that these steps are already done by the provider of the AI model.
+
+What changes?
+❌ No Data Collection
+
+The AI model has already been trained on a vast amount of text, so you don't need to collect billions of examples.
+
+❌ No Training
+
+The model has already learned language, grammar, reasoning, and many tasks. You simply send prompts to it.
+
+✅ Only Deployment
+
+Your job is mainly to:
+
+Connect your application to the API
+Design good prompts
+Build the user interface
+Test the application
+
+This can often be completed in about 2 weeks instead of several months.
+
+==========
+
+Comparison Table
+-----------------
+
+| Traditional AI Model  | Using ChatGPT API                        |
+| --------------------- | ---------------------------------------- |
+| Collect data          | Already done                             |
+| Train the model       | Already done                             |
+| Build AI from scratch | Use a pre-trained model                  |
+| Requires GPUs         | No training GPUs needed                  |
+| High development cost | Lower development cost                   |
+| Around 9 months       | Around 2 weeks (application development) |
+
+
+======
+
+Example
+Traditional Translation AI
+
+To build an English-to-Hindi translator yourself, you would need to:
+
+Collect millions of English-Hindi sentence pairs.
+Train a Transformer model on powerful GPUs.
+Evaluate and improve the model.
+Deploy it for users.
+
+This process could take many months.
+
+Using ChatGPT API
+
+With a pre-trained model:
+
+Create a simple application.
+Send the English text to the ChatGPT API.
+Receive the Hindi translation.
+Display it to the user.
+
+Because the language understanding is already built into the model, you focus on integrating it into your application rather than training it.
+
+=========
+
+n a traditional AI project, developers must collect data, train a model, and deploy it, which can take several months.
+When using a pre-trained model through the ChatGPT API, the data collection and training have already been completed. 
+Developers mainly integrate the API into their application and deploy it,
+which significantly reduces development time, cost, and infrastructure requirements.
+
+================
+
+
+
+
+
+
