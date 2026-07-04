@@ -1,0 +1,84 @@
+API stands for Application Programming Interface.
+
+It is a bridge that allows two software applications to communicate and exchange data with each other.
+
+Simple Example
+
+Imagine you're at a restaurant:
+
+👨‍🍳 Kitchen = Server (does the work)
+🙋 Waiter = API
+🧑 Customer = Application/User
+
+You tell the waiter what food you want. The waiter takes your order to the kitchen and brings the food back to you.
+
+Similarly:
+
+Your app sends a request to the API.
+The API sends the request to the server.
+The server processes it and sends the response back through the API.
+Example in AI Translation
+
+Suppose you build an English to Hindi Translator.
+
+Without API
+
+The translation model runs on your own computer.
+
+With API
+
+Your app sends the English text to a translation API.
+The API translates it using a powerful AI model.
+The translated Hindi text is returned to your application.
+Your App
+    │
+    ▼
+Translation API
+    │
+    ▼
+AI Model
+    │
+    ▼
+Hindi Translation
+Real-World APIs
+🌤️ Weather API – Get live weather information.
+💳 Payment API – Process online payments (Stripe, Razorpay).
+🗺️ Google Maps API – Show maps and locations.
+🤖 OpenAI API – Generate text, summarize, answer questions.
+🌐 Google Translate API – Translate text between languages.
+📧 Gmail API – Read and send emails.
+🎥 YouTube API – Access videos and channel information.
+
+====
+
+import requests
+
+url = "https://api.example.com/translate"
+
+data = {
+
+    "text": "Hello",
+    "source": "en",
+    "target": "hi"
+}
+
+response = requests.post(url, json=data)
+
+print(response.json())
+
+=========
+
+An API (Application Programming Interface) is a set of rules that enables different software applications to communicate and exchange data or services with each other.
+
+Examples you use every day:
+
+Logging in with Google
+Checking weather in a mobile app
+Paying through UPI
+Booking an Uber ride
+Translating text with Google Translate
+
+All of these work because applications communicate using APIs.
+
+==========
+
