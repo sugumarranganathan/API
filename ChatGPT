@@ -258,4 +258,59 @@ followed by successive GPT models, large-scale pre-training, and additional inst
 
 ============
 
+| Model                      | Year      |                               Estimated Team Size |                                  Estimated Training Cost (USD) |        Approximate INR | Key Achievement                                                   |
+| -------------------------- | --------- | ------------------------------------------------: | -------------------------------------------------------------: | ---------------------: | ----------------------------------------------------------------- |
+| GPT-1                      | 2018      |                                      30–50 people |                                                ~$0.5–1 million |             ₹4–8 Crore | First GPT model                                                   |
+| GPT-2                      | 2019      |                                     50–100 people |                                                  ~$2–5 million |           ₹17–43 Crore | Better text generation                                            |
+| GPT-3                      | 2020      |                                    100–200 people |                                                ~$10–20 million |          ₹85–170 Crore | 175B-parameter model                                              |
+| ChatGPT (built on GPT-3.5) | 2022      |                                   200–300+ people |                                Included in GPT-3.5 development | Not publicly disclosed | Conversational AI                                                 |
+| GPT-4                      | 2023      |                                   300–500+ people |                                     Estimated $50–100+ million |        ₹425–850+ Crore | Better reasoning and multimodal capabilities                      |
+| GPT-5 Family               | 2025–2026 | 500+ engineers, researchers, and supporting teams | Not publicly disclosed; likely significantly higher than GPT-4 | Not publicly disclosed | More advanced reasoning, multimodal capabilities, and reliability |
+
+
+============
+What Does It Take to Build a Large AI Model?
+
+| Resource         | Typical Requirement                                                                                                           |
+| ---------------- | ----------------------------------------------------------------------------------------------------------------------------- |
+| Data             | Massive collections of licensed, publicly available, and human-created text                                                   |
+| GPUs             | Thousands of high-performance GPUs                                                                                            |
+| Training Time    | Weeks to months                                                                                                               |
+| Engineers        | AI researchers, ML engineers, data engineers, software engineers, infrastructure engineers, safety researchers, product teams |
+| Data Centers     | Large-scale cloud and supercomputing infrastructure                                                                           |
+| Electricity      | Very high power consumption                                                                                                   |
+| Total Investment | Tens to hundreds of millions of dollars (or more), depending on the model                                                     |
+
+
+=========
+
+| Stage                   | Traditional AI               | ChatGPT API                             |
+| ----------------------- | ---------------------------- | --------------------------------------- |
+| Data Collection         | Months                       | Already completed by the model provider |
+| Model Training          | Months on large GPU clusters | Already completed                       |
+| Fine-Tuning             | Additional weeks or months   | Already completed for the base model    |
+| Application Development | After training               | Start immediately                       |
+| Deployment              | Deploy your own model        | Integrate the API                       |
+| Total Time              | Often many months            | Often days to a few weeks               |
+
+
+=============
+
+Building a large language model from scratch requires a multidisciplinary team of researchers 
+and engineers, large GPU clusters, extensive training data, and investments 
+that can reach tens or hundreds of millions of dollars. By contrast, using the ChatGPT API allows developers
+to leverage a pre-trained model, so they can focus on building their application instead of collecting data and training an AI model.
+
+============
+
+
+
+
+
+
+
+
+
+
+
 
