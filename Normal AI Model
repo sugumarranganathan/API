@@ -1,0 +1,51 @@
+Normal AI Model
+Traditional AI Development Process
+
+To build a normal AI model from scratch, you need to complete three major stages.
+
+1. Data Collection (3 Months)
+
+First, you collect a large amount of relevant data.
+
+Examples:
+
+Images for image classification
+Customer reviews for sentiment analysis
+Medical records for disease prediction
+English-Hindi sentence pairs for translation
+
+The more high-quality data you have, the better the model can learn.
+
+2. Train the Model (3 Months)
+
+After collecting the data, you train the AI model.
+
+During training, the model:
+
+Learns patterns from the data
+Adjusts its parameters
+Improves prediction accuracy
+
+Training often requires:
+
+Powerful GPUs
+Significant computing resources
+Many training iterations
+3. Deploy the Model (3 Months)
+
+Once the model performs well, it is deployed so users can access it.
+
+Deployment may involve:
+
+Hosting the model on a server or cloud
+Building an API
+Creating a web or mobile application
+Monitoring and updating the model
+Total Development Time
+Data Collection → 3 Months
+Training → 3 Months
+Deployment → 3 Months
+
+Total ≈ 9 Months
+
+=======
