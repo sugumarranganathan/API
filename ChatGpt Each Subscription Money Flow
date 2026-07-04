@@ -1,0 +1,111 @@
+Complete money flow
+
+You pay $20
+      │
+      ▼
+OpenAI
+      │
+      ├── Microsoft (Azure cloud + partnership agreements)
+      ├── Employee salaries
+      ├── AI researchers
+      ├── GPU & infrastructure costs
+      ├── Data centers
+      ├── Electricity
+      ├── Taxes
+      └── Future AI research & operations
+
+============
+
+Your subscription is paid to OpenAI.
+Microsoft does not automatically receive a fixed percentage of every subscription.
+Microsoft benefits through its investment, cloud infrastructure business, 
+and commercial agreements with OpenAI, but the exact allocation of an individual subscription payment is not publicly disclosed.
+
+============
+
+You pay OpenAI.
+
+However, OpenAI does not keep 100% of the money. It uses that revenue to pay many parties for different services and obligations. Microsoft also receives money through its commercial agreements with OpenAI, but it is not a simple "50-50" subscription split. The exact amount from each subscription is not publicly disclosed.
+
+Imagine you pay $20/month for ChatGPT Plus
+
+Your payment first goes to OpenAI.
+
+Then OpenAI uses that revenue to cover expenses such as:
+
+| Who receives money?   | Why?                                                                             |
+| --------------------- | -------------------------------------------------------------------------------- |
+| OpenAI                | Research, employees, product development                                         |
+| Microsoft             | Cloud infrastructure, partnership agreements, investment-related revenue sharing |
+| NVIDIA (indirectly)   | GPUs purchased by cloud providers                                                |
+| Electricity providers | Power for AI data centers                                                        |
+| Data center operators | Buildings, networking, cooling                                                   |
+| Employees             | Salaries and benefits                                                            |
+| Governments           | Taxes                                                                            |
+| Other investors       | Depending on company profits and ownership structure                             |
+
+
+==========
+
+Example (illustration only)
+
+If you pay $20, it is not distributed like this officially. A simplified illustration could look like:
+
+| Expense                    |          Example |
+| -------------------------- | ---------------: |
+| Microsoft cloud services   |             $6–8 |
+| GPU & infrastructure costs |             $3–5 |
+| Employee salaries          |             $3–4 |
+| AI research                |             $2–3 |
+| Operations & security      |             $1–2 |
+| Profit / reserves          | Remaining amount |
+
+
+These numbers are illustrative only, not OpenAI's published financial breakdown.
+
+Does Microsoft get money?
+
+Yes, but not because Microsoft owns ChatGPT.
+
+Microsoft earns money in several ways:
+
+Azure cloud services
+OpenAI pays Microsoft for large amounts of cloud computing and AI infrastructure.
+Investment agreement
+OpenAI and Microsoft have commercial agreements that include revenue-sharing provisions under certain conditions. Those agreements have changed over time, and the detailed financial terms are not fully public.
+Microsoft products
+Microsoft also earns revenue by selling AI features in products like Microsoft Copilot and Azure AI services.
+Does Apple get money?
+
+If you subscribe through the Apple App Store, then:
+
+You
+ │
+ ▼
+Apple App Store
+ │
+ ▼
+OpenAI
+
+Apple may receive its standard app marketplace commission according to its policies, while the remainder goes to OpenAI.
+
+Similarly, if you subscribe through Google Play, Google may receive the applicable store commission.
+
+Current ownership (approximate)
+
+Following OpenAI's restructuring, the ownership is approximately:
+
+| Stakeholder                 | Approximate ownership |
+| --------------------------- | --------------------: |
+| Employees & other investors |                  ~47% |
+| Microsoft                   |                  ~27% |
+| OpenAI Foundation           |                  ~26% |
+
+
+=====
+
+This means Microsoft is the largest single shareholder, but it does not own or control ChatGPT by itself. Governance remains with the OpenAI Foundation.
+
+=========
+
+
