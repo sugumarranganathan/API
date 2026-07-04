@@ -1,0 +1,120 @@
+This slide introduces the ChatGPT API and highlights two important concepts: Large Language Model (LLM) and Pre-trained.
+
+What is ChatGPT API?
+
+The ChatGPT API allows developers to integrate ChatGPT's capabilities into their own applications, websites, chatbots, or software. Instead of building an AI model from scratch, developers send a request to the ChatGPT API and receive an AI-generated response.
+
+Flow:
+
+Your Application
+       │
+       ▼
+   ChatGPT API
+       │
+       ▼
+Large Language Model (GPT)
+       │
+       ▼
+AI Response
+1. Large Language Model (LLM)
+
+A Large Language Model (LLM) is an AI model trained on massive amounts of text data from books, articles, websites, and other publicly available sources.
+
+Why is it called "Large"?
+Trained on billions or trillions of words
+Contains billions of parameters
+Understands context, grammar, and language patterns
+Can perform many language tasks
+What can an LLM do?
+Answer questions
+Translate languages
+Summarize documents
+Write emails
+Generate code
+Create stories
+Solve programming problems
+Explain concepts
+
+Example
+
+Input:
+
+Translate:
+"I love India."
+
+Output:
+
+"मुझे भारत से प्यार है।"
+
+The model understands the sentence and generates the appropriate translation.
+
+2. Pre-trained
+
+Pre-trained means the model has already learned language patterns before you use it.
+
+During training, it reads enormous amounts of text and learns:
+
+Vocabulary
+Grammar
+Sentence structure
+Relationships between words
+General knowledge
+Reasoning patterns
+
+Because of this pre-training, you don't need to teach it basic English every time you use it.
+
+Example
+
+When you ask:
+
+"Write a leave letter."
+
+The model already knows:
+
+Letter format
+Formal language
+Greetings
+Closing statements
+
+It generates the response immediately because it was pre-trained on similar text.
+
+Real-Life Analogy
+
+Imagine hiring an experienced English teacher.
+
+A pre-trained teacher already knows grammar and vocabulary.
+You simply ask a question, and the teacher answers.
+
+Similarly, ChatGPT is already trained, so you only provide a prompt, and it generates a response.
+
+How ChatGPT API Works
+--------------------
+
+User
+   │
+   ▼
+Application (Website / Mobile App)
+   │
+   ▼
+ChatGPT API
+   │
+   ▼
+GPT Large Language Model
+   │
+   ▼
+Generated Response
+   │
+   ▼
+User
+
+=========
+
+ChatGPT API is an interface that allows developers to integrate ChatGPT into their applications. 
+It uses a Large Language Model (LLM) that has been pre-trained on vast amounts of text data. 
+The model understands natural language and can generate human-like responses for tasks 
+such as question answering, translation, summarization, and content generation.
+
+==========
+
+
+
