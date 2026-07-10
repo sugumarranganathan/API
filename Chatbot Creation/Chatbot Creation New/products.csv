@@ -1,0 +1,51 @@
+id,name,brand,category,price,processor,ram,storage,camera,battery,rating
+1,iPhone 16,Apple,Phone,79999,A18 Bionic,8 GB,256 GB,48 MP,4500 mAh,4.8
+2,iPhone 16 Pro,Apple,Phone,119999,A18 Pro,8 GB,512 GB,48 MP Triple,4700 mAh,4.9
+3,Samsung Galaxy S24,Samsung,Phone,74999,Snapdragon 8 Gen3,12 GB,256 GB,50 MP,4900 mAh,4.8
+4,Samsung Galaxy S24 Ultra,Samsung,Phone,129999,Snapdragon 8 Gen3,12 GB,512 GB,200 MP,5000 mAh,4.9
+5,Xiaomi 15,Xiaomi,Phone,59999,Snapdragon 8 Elite,12 GB,256 GB,50 MP,5400 mAh,4.7
+6,Xiaomi 15 Ultra,Xiaomi,Phone,89999,Snapdragon 8 Elite,16 GB,512 GB,200 MP,5500 mAh,4.9
+7,Redmi Note 14 Pro,Xiaomi,Phone,29999,Dimensity 7300,8 GB,256 GB,200 MP,5500 mAh,4.6
+8,Motorola Edge 60 Pro,Motorola,Phone,34999,Dimensity 8350,12 GB,256 GB,50 MP,6000 mAh,4.6
+9,Moto G86,Motorola,Phone,22999,Snapdragon 7 Gen3,8 GB,256 GB,50 MP,5200 mAh,4.5
+10,OnePlus 13,OnePlus,Phone,69999,Snapdragon 8 Elite,16 GB,512 GB,50 MP Hasselblad,6000 mAh,4.8
+11,OnePlus Nord 5,OnePlus,Phone,32999,Snapdragon 8s Gen3,12 GB,256 GB,50 MP,5500 mAh,4.6
+12,Google Pixel 9,Google,Phone,74999,Tensor G4,12 GB,256 GB,50 MP,4700 mAh,4.8
+13,Google Pixel 9 Pro,Google,Phone,104999,Tensor G4,16 GB,512 GB,50 MP Triple,5000 mAh,4.9
+14,Nothing Phone 3,Nothing,Phone,49999,Snapdragon 8s Gen3,12 GB,256 GB,50 MP,5000 mAh,4.6
+15,Nothing Phone 3a,Nothing,Phone,29999,Snapdragon 7s Gen3,8 GB,256 GB,50 MP,5000 mAh,4.5
+16,Vivo X200,Vivo,Phone,74999,Dimensity 9400,16 GB,512 GB,50 MP ZEISS,5800 mAh,4.8
+17,Vivo V50,Vivo,Phone,38999,Snapdragon 7 Gen3,12 GB,256 GB,50 MP,6000 mAh,4.6
+18,Oppo Find X8,Oppo,Phone,79999,Dimensity 9400,16 GB,512 GB,50 MP,5600 mAh,4.8
+19,Oppo Reno 14,Oppo,Phone,37999,Snapdragon 7 Gen3,12 GB,256 GB,50 MP,5600 mAh,4.6
+20,Realme GT 7,Realme,Phone,42999,Dimensity 9400e,12 GB,256 GB,50 MP,7000 mAh,4.7
+21,Realme Narzo 80,Realme,Phone,17999,Dimensity 7400,8 GB,128 GB,50 MP,6000 mAh,4.4
+22,Asus ROG Phone 9,Asus,Phone,99999,Snapdragon 8 Elite,16 GB,512 GB,50 MP,5800 mAh,4.9
+23,Sony Xperia 1 VI,Sony,Phone,124999,Snapdragon 8 Gen3,12 GB,512 GB,48 MP,5000 mAh,4.7
+24,Infinix GT 30 Pro,Infinix,Phone,24999,Dimensity 8350,12 GB,256 GB,108 MP,5500 mAh,4.5
+25,Tecno Phantom V Fold 2,Tecno,Phone,89999,Dimensity 9000+,12 GB,512 GB,50 MP,5750 mAh,4.5
+26,Dell XPS 14,Dell,Laptop,169999,Intel Core Ultra 7,32 GB,1 TB SSD,NA,70 Wh,4.9
+27,Dell Inspiron 15,Dell,Laptop,64999,Intel i5,16 GB,512 GB SSD,NA,54 Wh,4.5
+28,HP Pavilion Plus,HP,Laptop,74999,Intel Core Ultra 5,16 GB,512 GB SSD,NA,68 Wh,4.6
+29,HP Omen 16,HP,Laptop,129999,Intel i7,16 GB,1 TB SSD,RTX 4070,83 Wh,4.8
+30,Lenovo Legion 5,Lenovo,Laptop,119999,Ryzen 7,16 GB,1 TB SSD,RTX 4060,80 Wh,4.8
+31,Lenovo IdeaPad Slim 5,Lenovo,Laptop,68999,Ryzen 5,16 GB,512 GB SSD,NA,60 Wh,4.6
+32,Asus TUF A15,Asus,Laptop,89999,Ryzen 7,16 GB,1 TB SSD,RTX 4060,90 Wh,4.7
+33,Acer Predator Helios Neo,Acer,Laptop,109999,Intel i7,16 GB,1 TB SSD,RTX 4060,90 Wh,4.8
+34,MSI Katana 15,MSI,Laptop,104999,Intel i7,16 GB,1 TB SSD,RTX 4060,80 Wh,4.7
+35,Apple MacBook Air M3,Apple,Laptop,114999,Apple M3,16 GB,512 GB SSD,NA,66 Wh,4.9
+36,Apple MacBook Pro M4,Apple,Laptop,189999,Apple M4 Pro,24 GB,1 TB SSD,NA,72 Wh,5.0
+37,Samsung Crystal 4K 55,Samsung,TV,45999,Quad Core,2 GB,16 GB,NA,NA,4.6
+38,Samsung Neo QLED 65,Samsung,TV,159999,AI Processor,4 GB,32 GB,NA,NA,4.9
+39,LG OLED C4 55,LG,TV,139999,Alpha 9 AI,4 GB,32 GB,NA,NA,4.9
+40,Sony Bravia 7 65,Sony,TV,179999,Cognitive XR,4 GB,32 GB,NA,NA,4.9
+41,Xiaomi X Series 55,Xiaomi,TV,42999,Quad Core,2 GB,16 GB,NA,NA,4.5
+42,TCL C755 65,TCL,TV,79999,AI Processor,3 GB,32 GB,NA,NA,4.7
+43,Hisense U7N 55,Hisense,TV,69999,Quad Core,3 GB,32 GB,NA,NA,4.6
+44,Canon EOS R50,Canon,Camera,67999,DIGIC X,NA,NA,24 MP,NA,4.8
+45,Canon EOS R10,Canon,Camera,94999,DIGIC X,NA,NA,24 MP,NA,4.9
+46,Sony Alpha A6700,Sony,Camera,139999,BIONZ XR,NA,NA,26 MP,NA,4.9
+47,Nikon Z50 II,Nikon,Camera,89999,EXPEED 7,NA,NA,21 MP,NA,4.8
+48,Fujifilm X-S20,Fujifilm,Camera,119999,X-Processor 5,NA,NA,26 MP,NA,4.9
+49,GoPro Hero 13,GoPro,Camera,44999,GP2,NA,NA,27 MP,NA,4.7
+50,DJI Osmo Action 5,DJI,Camera,38999,RockSteady,NA,NA,40 MP,NA,4.7
