@@ -1,0 +1,16 @@
+| Module | Topic                      | Status      |
+| ------ | -------------------------- | ----------- |
+| 1      | Input Classification       | ✅ Completed |
+| 2      | Chatbot Basics             | ✅ Completed |
+| 3      | LLM, Chat Format & Tokens  | ✅ Completed |
+| 4      | Moderation                 | ✅ Completed |
+| 5      | Chain of Thought Reasoning | ✅ Completed |
+| 6      | Prompt Chaining            | ✅ Completed |
+| 7      | Output Validation          | ✅ Completed |
+| 8      | End-to-End Chatbot         | ✅ Completed |
+| 9      | Evaluation Part I          | ✅ Completed |
+| 10     | Evaluation Part II         | 🔄 Current  |
+
+
+=====
+
